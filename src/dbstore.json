@@ -1,0 +1,11 @@
+{
+  "users": [],
+  "quizzes": [],
+  "tokens": [],
+  "trash": [],
+  "nextUserId": 1,
+  "nextQuizId": 1,
+  "nextQuestionId": 1,
+  "sessions": [],
+  "nextPlayerId": 1
+}

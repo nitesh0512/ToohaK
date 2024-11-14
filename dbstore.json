@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+{"users":[],"quizzes":[],"tokens":[],"trash":[]}
+=======
+{"users":[{"userId":1,"nameFirst":"First","nameLast":"Last","email":"firstlast@gmail.com","password":"thisisAp4ssword","numSuccessfulLogins":1,"numFailedPasswordsSinceLastLogin":0,"ownedQuizzes":[]}],"quizzes":[],"tokens":[{"tokenId":"894f79fd-5f84-4338-9fca-19b9a17e5288","userId":1}],"trash":[]}
+>>>>>>> 0a18e2ae5e568a17483d96ed5adee45e6092e3ff
+=======
+{"users":[],"quizzes":[],"tokens":[],"trash":[]}
+>>>>>>> daa23af4142cb7d556d9ac12349204df79b75fa7
